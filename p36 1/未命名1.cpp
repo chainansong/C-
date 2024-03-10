@@ -3,9 +3,9 @@ main()
 {
 	double price;
 	int a;
-	printf("价格\n");
+	printf("浠锋牸赂艅\n");
 	scanf("%lf",&price);
-	printf("数量\n");
+	printf("臉媒脕偶\n");
 	scanf("%d",&a);
-	printf("应付款：%.2f元\n",price*a);
+	printf("脫艢赂艣偶卯艁艧%.2f脭艦\n",price*a);
 }
